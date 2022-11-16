@@ -4,6 +4,14 @@ It's basically a Data Science project. Here i have developed an best selling boo
 
 The database contains 550 books and they are categorized into FICTION and NON-FICTION. 
 
+Step 1: Importing Libraries
+
+Step 2: Importing the Dataset
+
+Step 3: EDA & Data Cleaning 
+
+Step 4: Build model 
+
 Here are some related snap shots:
 
 
